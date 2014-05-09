@@ -1,0 +1,9 @@
+c:\users\smicalizzi\documents\visual studio 2012\Projects\TableInfoGetter\TableInfoGetter\bin\Debug\TableInfoGetter.exe.config
+c:\users\smicalizzi\documents\visual studio 2012\Projects\TableInfoGetter\TableInfoGetter\bin\Debug\TableInfoGetter.exe
+c:\users\smicalizzi\documents\visual studio 2012\Projects\TableInfoGetter\TableInfoGetter\bin\Debug\TableInfoGetter.pdb
+c:\users\smicalizzi\documents\visual studio 2012\Projects\TableInfoGetter\TableInfoGetter\obj\Debug\TableInfoGetter.csprojResolveAssemblyReference.cache
+c:\users\smicalizzi\documents\visual studio 2012\Projects\TableInfoGetter\TableInfoGetter\obj\Debug\TableInfoGetter.exe
+c:\users\smicalizzi\documents\visual studio 2012\Projects\TableInfoGetter\TableInfoGetter\obj\Debug\TableInfoGetter.pdb
+C:\Users\smicalizzi\TableInfoGetter\TableInfoGetter\bin\Debug\TableInfoGetter.exe.config
+C:\Users\smicalizzi\TableInfoGetter\TableInfoGetter\obj\Debug\TableInfoGetter.exe
+C:\Users\smicalizzi\TableInfoGetter\TableInfoGetter\obj\Debug\TableInfoGetter.pdb
